@@ -1,0 +1,47 @@
+C:\Users\Asus\source\repos\KITAPSATIS\KITAPSATIS\bin\Debug\netcoreapp3.1\KITAPSATIS.exe
+C:\Users\Asus\source\repos\KITAPSATIS\KITAPSATIS\bin\Debug\netcoreapp3.1\KITAPSATIS.deps.json
+C:\Users\Asus\source\repos\KITAPSATIS\KITAPSATIS\bin\Debug\netcoreapp3.1\KITAPSATIS.runtimeconfig.json
+C:\Users\Asus\source\repos\KITAPSATIS\KITAPSATIS\bin\Debug\netcoreapp3.1\KITAPSATIS.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\KITAPSATIS\KITAPSATIS\bin\Debug\netcoreapp3.1\KITAPSATIS.dll
+C:\Users\Asus\source\repos\KITAPSATIS\KITAPSATIS\bin\Debug\netcoreapp3.1\KITAPSATIS.pdb
+C:\Users\Asus\source\repos\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.Form1.resources
+C:\Users\Asus\source\repos\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.AssemblyInfo.cs
+C:\Users\Asus\source\repos\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.dll
+C:\Users\Asus\source\repos\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.pdb
+C:\Users\Asus\source\repos\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.genruntimeconfig.cache
+C:\Users\Asus\source\repos\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\AGALARPROJEVOL1\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\AGALARPROJEVOL1\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.Form1.resources
+C:\Users\Asus\Desktop\AGALARPROJEVOL1\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.Giriş.resources
+C:\Users\Asus\Desktop\AGALARPROJEVOL1\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\AGALARPROJEVOL1\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\AGALARPROJEVOL1\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.AssemblyInfo.cs
+C:\Users\Asus\Desktop\AGALARPROJEVOL1\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\AGALARPROJEVOL1\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.dll
+C:\Users\Asus\Desktop\AGALARPROJEVOL1\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.pdb
+C:\Users\Asus\Desktop\AGALARPROJEVOL1\KITAPSATIS\KITAPSATIS\bin\Debug\netcoreapp3.1\KITAPSATIS.exe
+C:\Users\Asus\Desktop\AGALARPROJEVOL1\KITAPSATIS\KITAPSATIS\bin\Debug\netcoreapp3.1\KITAPSATIS.deps.json
+C:\Users\Asus\Desktop\AGALARPROJEVOL1\KITAPSATIS\KITAPSATIS\bin\Debug\netcoreapp3.1\KITAPSATIS.runtimeconfig.json
+C:\Users\Asus\Desktop\AGALARPROJEVOL1\KITAPSATIS\KITAPSATIS\bin\Debug\netcoreapp3.1\KITAPSATIS.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\AGALARPROJEVOL1\KITAPSATIS\KITAPSATIS\bin\Debug\netcoreapp3.1\KITAPSATIS.dll
+C:\Users\Asus\Desktop\AGALARPROJEVOL1\KITAPSATIS\KITAPSATIS\bin\Debug\netcoreapp3.1\KITAPSATIS.pdb
+C:\Users\Asus\Desktop\AGALARPROJEVOL1\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.genruntimeconfig.cache
+C:\Users\Ömer Ahmet Yılmaz\Desktop\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.csprojAssemblyReference.cache
+C:\Users\Ömer Ahmet Yılmaz\Desktop\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.Form1.resources
+C:\Users\Ömer Ahmet Yılmaz\Desktop\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.Giriş.resources
+C:\Users\Ömer Ahmet Yılmaz\Desktop\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.csproj.GenerateResource.cache
+C:\Users\Ömer Ahmet Yılmaz\Desktop\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.AssemblyInfoInputs.cache
+C:\Users\Ömer Ahmet Yılmaz\Desktop\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.AssemblyInfo.cs
+C:\Users\Ömer Ahmet Yılmaz\Desktop\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Ahmet Yılmaz\Desktop\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.dll
+C:\Users\Ömer Ahmet Yılmaz\Desktop\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.pdb
+C:\Users\Ömer Ahmet Yılmaz\Desktop\KITAPSATIS\KITAPSATIS\bin\Debug\netcoreapp3.1\KITAPSATIS.exe
+C:\Users\Ömer Ahmet Yılmaz\Desktop\KITAPSATIS\KITAPSATIS\bin\Debug\netcoreapp3.1\KITAPSATIS.deps.json
+C:\Users\Ömer Ahmet Yılmaz\Desktop\KITAPSATIS\KITAPSATIS\bin\Debug\netcoreapp3.1\KITAPSATIS.runtimeconfig.json
+C:\Users\Ömer Ahmet Yılmaz\Desktop\KITAPSATIS\KITAPSATIS\bin\Debug\netcoreapp3.1\KITAPSATIS.runtimeconfig.dev.json
+C:\Users\Ömer Ahmet Yılmaz\Desktop\KITAPSATIS\KITAPSATIS\bin\Debug\netcoreapp3.1\KITAPSATIS.dll
+C:\Users\Ömer Ahmet Yılmaz\Desktop\KITAPSATIS\KITAPSATIS\bin\Debug\netcoreapp3.1\KITAPSATIS.pdb
+C:\Users\Ömer Ahmet Yılmaz\Desktop\KITAPSATIS\KITAPSATIS\obj\Debug\netcoreapp3.1\KITAPSATIS.genruntimeconfig.cache
